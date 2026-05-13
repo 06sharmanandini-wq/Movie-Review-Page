@@ -1,4 +1,4 @@
-# Mahavatar Narsimha Movie Reviw Page 
+# Mahavatar Narsimha Movie Review Page 
 
 This is my first HTML project built as part of the freecodecamp Responsive Web Design certification.
 It features a movie review for *Mahavatar Narsimha*, including rating, cast members, and accessibility-friendly structure.
