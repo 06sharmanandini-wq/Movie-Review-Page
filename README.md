@@ -10,7 +10,7 @@ It features a movie review for *Mahavatar Narsimha*, including rating, cast memb
 - published using GitHub Pages
 
   ## Live Demo
-  👉 [View the site here](https://06sharmanandini-wq.github.io/Movie-Reviw-Page/)
+  👉 [View the site here](https://06sharmanandini-wq.github.io/Movie-Review-Page/)
 
 ## Author 
 Created by **Nandini**  ✨
